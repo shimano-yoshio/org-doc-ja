@@ -1,0 +1,24 @@
+\input texinfo-ja    @c -*- texinfo -*-
+@c %**start of header
+@setfilename org-manual.info
+@settitle 
+@documentencoding UTF-8
+@documentlanguage en
+@c %**end of header
+
+@finalout
+@titlepage
+@title 
+@author Yoshio Shimano
+@end titlepage
+
+@contents
+
+@ifnottex
+@node Top
+@top 
+@end ifnottex
+
+
+
+@bye
